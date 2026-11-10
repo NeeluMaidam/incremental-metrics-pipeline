@@ -1,0 +1,13 @@
+{
+    "run_id": "62a68364-dc62-4b5f-a435-7df9a4e09dc9",
+    "start_time": "2026-11-10T07:57:23.089890+00:00",
+    "end_time": "2026-11-10T07:57:23.124430+00:00",
+    "status": "COMPLETED_WITH_REJECTS",
+    "input_file": "C:\\Users\\MAIDA\\OneDrive\\Desktop\\incremental-metrics-pipeline\\data\\duplicate_version.csv",
+    "input_count": 2,
+    "accepted_count": 1,
+    "rejected_count": 1,
+    "duplicate_count": 0,
+    "affected_groups": 1,
+    "metrics_file": "C:\\Users\\MAIDA\\OneDrive\\Desktop\\incremental-metrics-pipeline\\output\\daily_metrics.csv"
+}

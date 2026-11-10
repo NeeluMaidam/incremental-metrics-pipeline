@@ -1,0 +1,2 @@
+event_id,transaction_id,product_id,event_type,amount,event_version,transaction_date,event_timestamp
+E901,T901,P101,NEW,100.00,1,2026-11-10,2026-11-10T10:00:00

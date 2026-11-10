@@ -151,6 +151,8 @@ The test suite covers:
 - Empty input batches
 - Idempotent reruns
 
+**Test result:** 13 automated tests passed.
+
 ## Performance Testing
 
 The project includes a generated dataset containing 100,000 transaction events to evaluate processing performance and incremental execution.
@@ -186,3 +188,5 @@ Additional implementation details, assumptions, trade-offs, and possible improve
 **Neelu Maidam**
 
 GitHub: [NeeluMaidam](https://github.com/NeeluMaidam)
+
+Repository: [Incremental Metrics Pipeline](https://github.com/NeeluMaidam/incremental-metrics-pipeline)
